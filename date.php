@@ -13,9 +13,9 @@ echo date("l",time()-60*60*24*100);
 // membuat sendiri detik
 // mktime (0,0,0,0,0,0)
 // jam, menit, detik, bulan tanggal tahun
-echo date("l", mktime(0,0,0,12,7,2005));
+echo date("l", mktime(0,0,0,05,7,2006));
 
 // stortime
-echo date("l", strtotime("7 des 2005"));
+echo date("l", strtotime("5 jul 2006"));
 
 ?>
