@@ -13,7 +13,7 @@ function salam($waktu , $nama){
 </head>
 <body>
 
-    <h1><?= salam("Pagi", "Roland");?></h1>
+    <h1><?= salam("Pagi", "Reinold");?></h1>
     
 </body>
 </html>
