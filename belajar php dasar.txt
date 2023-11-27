@@ -8,7 +8,7 @@
 // var_dump 
 
 // penggunaan variabel
-$nama = "roland";
+$nama = "reinold";
 echo" Halo Nama Saya $nama";
 
 // operator
@@ -20,15 +20,15 @@ echo $x * $y;
 
 // penggabungan string / concatenation / concat
 // .
-$nama_depan = "salay";
-$nama_belakang = "roland";
+$nama_depan = "reinold";
+$nama_belakang = "kallem";
 echo $nama_depan . " " . $nama_belakang;
 
 // assigment
 // =, +=, *-=, *=, /= , %=, .=
-$nama = "roland";
+$nama = "reinold";
 $nama .= " ";
-$nama .= "salay";
+$nama .= "kallem";
 echo $nama;
 
 // perbandingan
